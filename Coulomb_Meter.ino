@@ -116,7 +116,7 @@ Have fun! -Your friends at SparkFun.
 
 // Change the following two lines to match your battery
 // and its initial state-of-charge:
-
+//arduino example
 volatile double battery_mAh = 2000.0; // milliamp-hours (mAh)
 volatile double battery_percent = 100.0;  // state-of-charge (percent)
 

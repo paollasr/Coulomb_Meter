@@ -168,6 +168,10 @@ void setup()
 
 void loop()
 {
+//start do void loop
+
+//comeco
+  
   static int n = 0;
 
   // When we detect an INT signal, the myISR() function
